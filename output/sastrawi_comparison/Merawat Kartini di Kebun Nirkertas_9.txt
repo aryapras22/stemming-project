@@ -1,0 +1,72 @@
+=============================================
+FILE: Merawat Kartini di Kebun Nirkertas_9.txt - STATISTIK
+=============================================
+Jumlah Kata (Original): 767
+Jumlah Kata Unik (Original): 437
+---------------------------------------------
+Jumlah Kata (Setelah Cleaning): 754
+Jumlah Kata Unik (Setelah Cleaning): 369
+---------------------------------------------
+Jumlah Kata (Setelah Stemming): 760
+Jumlah Kata Unik (Setelah Stemming): 332
+=============================================
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+judul merawat kartini di kebun nirkertas
+
+penulis aniendya christianna
+
+rilis april
+
+sumber httpswwwkompasidartikelmerawatkartinidikebunnirkertas
+
+“saya mau bekerja bukan karena ingin menjadi besar atau termasyhur tapi karena cinta kepada manusia dan kepada kebenaran”
+— ra kartini surat kepada abendanon agustus
+
+di tengah gempuran teknologi dan pergeseran budaya digital kita kerap lupa bahwa simbolsimbol yang dulu hadir dalam keseharian kini mulai menghilang salah satunya wajah ra kartini di uang kertas dalam era cashless society—ketika transaksi dilakukan lewat qris ewallet dan mobile banking—representasi visual tokoh perempuan yang dulu melekat di dompet rakyat kini perlahan lenyap dari pandangan
+
+di dunia digital yang cepat dan tanpa wajah kita patut bertanya ke mana perginya simbolsimbol perempuan seperti kartini
+
+setiap april bangsa indonesia mengenang ra kartini sebagai pelopor emansipasi perempuan namun peringatan ini sering terjebak dalam seremoni lomba kebaya unggahan bertema pastel atau kutipan yang viral sejenak padahal pemikiran kartini jauh lebih dalam ia menulis dengan keberanian dan kegelisahan menantang tatanan yang mengekang perempuan untuk belajar dan berpikir bebas
+
+kartini adalah perempuan pertama yang menuntut perubahan dalam struktur sosial dengan keyakinan bahwa emansipasi bukan hanya tentang kebebasan individual tetapi kebebasan kolektif dalam berpikir
+
+kartini pernah menjadi perempuan pertama yang wajahnya muncul di uang kertas indonesia—dimulai dari pecahan rp tahun lalu rp tahun ini adalah langkah simbolik yang kuat negara mengakui peran perempuan dalam narasi kebangsaan dan menyematkannya di medium yang paling luas sirkulasinya yaitu uang
+
+namun wajah kartini yang tercetak itu adalah versi yang telah ”ditertibkan” perempuan cerdas anggun dan berbakti tetapi tidak mengguncang tatanan wajah kartini pada uang kertas adalah representasi dari emansipasi yang ”dapat diterima” berprestasi tetapi tetap dalam bingkai sopan dan nasionalis
+
+namun simbol itu tidak abadi kini uang fisik kartini tak lagi beredar ia menjadi koleksi langka bagi para numismatis tokoh perempuan lain seperti cut nyak dhien atau cut meutia memang sempat menggantikan tapi proporsi pahlawan perempuan dalam sejarah uang indonesia masih sangat timpang dari total tokoh yang pernah tampil di uang rupiah lebih dari persen adalah lakilaki ketimpangan ini mencerminkan masih sempitnya ruang representasi perempuan dalam narasi visual negara
+
+di masa lalu saat uang berpindah tangan wajah kartini ikut berpindah—menyapa siapa pun dari pasar hingga perkantoran kini dengan transaksi digital tak ada lagi wajah yang terlihat tak ada tokoh perempuan yang hadir dalam interaksi ekonomi harian dunia digital menciptakan efisiensi tetapi juga menghapus jejak simbolis yang pernah menanamkan ingatan kolektif
+
+apakah hilangnya uang fisik juga berarti hilangnya kehadiran perempuan dalam ruang publik ekonomi kita jika representasi hanya muncul dalam seremoni tahunan makna perjuangan perempuan akan semakin jauh dari realitas keseharian
+
+kita perlu menggali ulang sejarah kartini—tidak hanya sebagai simbol tetapi sebagai pemikir yang gelisah tajam dan progresif
+
+bagaimana kita kini membentuk ulang ingatan kolektif atas perjuangan perempuan tak cukup lewat festival tahunan atau figur di museum kita perlu menciptakan ruangruang baru bagi pemikiran kartini—dalam pendidikan media hingga kebijakan publik
+
+representasi perempuan dalam dunia digital pun harus diperluas tokoh perempuan kontemporer perlu tampil dalam konten visual kepemimpinan teknologi hingga budaya populer
+
+yang juga penting kita harus lebih kritis terhadap siapa yang dipilih negara untuk mewakili ”perempuan” dalam sejarah visual mengapa hanya tokoh tertentu yang ditampilkan mengapa kartini yang dulunya radikal kini sering dijadikan simbol netral
+
+suratsurat kartini penuh kegelisahan terhadap ketimpangan—dan itu yang justru relevan untuk masa kini
+
+dalam dunia digital yang serba canggih kita sering terjebak dalam definisi yang dibatasi oleh layar dan algoritma teknologi mungkin sudah memudahkan akses informasi tetapi juga bisa menimbulkan jarak antara simbol dan makna sejati
+
+kita harus mempertanyakan apakah kita sedang merawat ingatan yang sahih atau sekadar melestarikan citra yang dibakukan seperti kartini yang hanya tampil di gambar uang kertas atau dalam kutipankutipan yang hanya bertahan sehari atau berkebaya selama sehari penuh
+
+perjuangan kartini lebih dari sekadar penampilan visual pemikiran kartini memprovokasi kita untuk terus berpikir melampaui batas untuk menantang ketidakadilan yang tersembunyi dalam sistem yang tampak tak tergoyahkan
+
+bagaimana kita sebagai generasi muda bisa menghidupkan semangat kartini dalam dunia yang serba digital ini
+
+mungkin bukan lewat uang kertas tapi lewat ruang digital yang inklusif suara kebijakan yang adil dan keberanian untuk terus mengangkat suara perempuan dalam arus zaman yang berubah cepat mungkin kita bisa merawat pemikiran kartini di ’kebun nirkertas’ menanamnya dalam bentuk edukasi yang lebih luas dalam budaya populer yang mencakup semua identitas dan dalam kebijakan yang memperjuangkan kesetaraan tanpa batas
+
+”tiada awan di langit yang tetap selamanya semua akan berubah menjadi hujan atau hilang sama sekali”
+— ra kartini surat kepada stella oktober
+
+semoga awan itu kini berubah menjadi hujan—menyuburkan dunia menjadi lebih setara adil dan inklusif dengan semangat kartini yang hidup dalam setiap ruang baru yang kita ciptakan
+
+
+--- TEKS SETELAH STEMMING ---
+judul rawat kartini di kebun nirkertas tulis aniendya christianna rilis april sumber httpswwwkompasidartikelmerawatkartinidikebunnirkertas saya mau kerja bukan karena ingin jadi besar atau masyhur tapi karena cinta kepada manusia dan kepada benar ra kartini surat kepada abendanon agustus di tengah gempur teknologi dan geser budaya digital kita kerap lupa bahwa simbolsimbol yang dulu hadir dalam hari kini mulai hilang salah satu wajah ra kartini di uang kertas dalam era cashless society ketika transaksi laku lewat qris ewallet dan mobile banking representasi visual tokoh perempuan yang dulu lekat di dompet rakyat kini perlahan lenyap dari pandang di dunia digital yang cepat dan tanpa wajah kita patut tanya ke mana pergi simbolsimbol perempuan seperti kartini tiap april bangsa indonesia kenang ra kartini bagai pelopor emansipasi perempuan namun ingat ini sering jebak dalam seremoni lomba kebaya unggah tema pastel atau kutip yang viral jenak padahal pikir kartini jauh lebih dalam ia tulis dengan berani dan gelisah tantang tatanan yang ekang perempuan untuk ajar dan pikir bebas kartini adalah perempuan pertama yang tuntut ubah dalam struktur sosial dengan yakin bahwa emansipasi bukan hanya tentang bebas individual tetapi bebas kolektif dalam pikir kartini pernah jadi perempuan pertama yang wajah muncul di uang kertas indonesia mulai dari pecah rp tahun lalu rp tahun ini adalah langkah simbolik yang kuat negara aku peran perempuan dalam narasi bangsa dan semat di medium yang paling luas sirkulasi yaitu uang namun wajah kartini yang cetak itu adalah versi yang telah tertib perempuan cerdas anggun dan bakti tetapi tidak guncang tatanan wajah kartini pada uang kertas adalah representasi dari emansipasi yang dapat terima prestasi tetapi tetap dalam bingkai sopan dan nasionalis namun simbol itu tidak abadi kini uang fisik kartini tak lagi edar ia jadi koleksi langka bagi para numismatis tokoh perempuan lain seperti cut nyak dhien atau cut meutia memang sempat ganti tapi proporsi pahlawan perempuan dalam sejarah uang indonesia masih sangat timpang dari total tokoh yang pernah tampil di uang rupiah lebih dari persen adalah lakilaki timpang ini cermin masih sempit ruang representasi perempuan dalam narasi visual negara di masa lalu saat uang pindah tangan wajah kartini ikut pindah sapa siapa pun dari pasar hingga kantor kini dengan transaksi digital tak ada lagi wajah yang lihat tak ada tokoh perempuan yang hadir dalam interaksi ekonomi hari dunia digital cipta efisiensi tetapi juga hapus jejak simbolis yang pernah tanam ingat kolektif apakah hilang uang fisik juga arti hilang hadir perempuan dalam ruang publik ekonomi kita jika representasi hanya muncul dalam seremoni tahun makna juang perempuan akan makin jauh dari realitas hari kita perlu gali ulang sejarah kartini tidak hanya bagai simbol tetapi bagai pikir yang gelisah tajam dan progresif bagaimana kita kini bentuk ulang ingat kolektif atas juang perempuan tak cukup lewat festival tahun atau figur di museum kita perlu cipta ruangruang baru bagi pikir kartini dalam didik media hingga bijak publik representasi perempuan dalam dunia digital pun harus luas tokoh perempuan kontemporer perlu tampil dalam konten visual pimpin teknologi hingga budaya populer yang juga penting kita harus lebih kritis hadap siapa yang pilih negara untuk wakil perempuan dalam sejarah visual mengapa hanya tokoh tentu yang tampil mengapa kartini yang dulunya radikal kini sering jadi simbol netral suratsurat kartini penuh gelisah hadap timpang dan itu yang justru relevan untuk masa kini dalam dunia digital yang serba canggih kita sering jebak dalam definisi yang batas oleh layar dan algoritma teknologi mungkin sudah mudah akses informasi tetapi juga bisa timbul jarak antara simbol dan makna sejati kita harus tanya apakah kita sedang rawat ingat yang sahih atau sekadar lestari citra yang baku seperti kartini yang hanya tampil di gambar uang kertas atau dalam kutipankutipan yang hanya tahan hari atau kebaya lama hari penuh juang kartini lebih dari sekadar tampil visual pikir kartini provokasi kita untuk terus pikir lampau batas untuk tantang ketidakadilan yang sembunyi dalam sistem yang tampak tak goyah bagaimana kita bagai generasi muda bisa hidup semangat kartini dalam dunia yang serba digital ini mungkin bukan lewat uang kertas tapi lewat ruang digital yang inklusif suara bijak yang adil dan berani untuk terus angkat suara perempuan dalam arus zaman yang ubah cepat mungkin kita bisa rawat pikir kartini di kebun nirkertas tanam dalam bentuk edukasi yang lebih luas dalam budaya populer yang cakup semua identitas dan dalam bijak yang juang tara tanpa batas tiada awan di langit yang tetap lama semua akan ubah jadi hujan atau hilang sama sekali ra kartini surat kepada stella oktober moga awan itu kini ubah jadi hujan subur dunia jadi lebih tara adil dan inklusif dengan semangat kartini yang hidup dalam tiap ruang baru yang kita cipta

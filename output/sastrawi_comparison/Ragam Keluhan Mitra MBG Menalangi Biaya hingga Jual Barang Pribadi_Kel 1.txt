@@ -1,0 +1,48 @@
+=============================================
+FILE: Ragam Keluhan Mitra MBG Menalangi Biaya hingga Jual Barang Pribadi_Kel 1.txt - STATISTIK
+=============================================
+Jumlah Kata (Original): 468
+Jumlah Kata Unik (Original): 302
+---------------------------------------------
+Jumlah Kata (Setelah Cleaning): 454
+Jumlah Kata Unik (Setelah Cleaning): 250
+---------------------------------------------
+Jumlah Kata (Setelah Stemming): 454
+Jumlah Kata Unik (Setelah Stemming): 225
+=============================================
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+
+judul ragam keluhan mitra mbg menalangi biaya hingga jual barang pribadi
+rilis april
+penulis m rizki yusrial dian rahma fika
+sumber httpswwwtempocopolitikragamkeluhanmitrambgmenalangibiayahinggajualbarangpribadi
+
+
+sebagian mitra makan bergizi gratis mengeluhkan tidak mendapat bayaran atas kerjanya pada program mbg berikut beberapa keluhan lain di lapangan tempoco jakarta program makan bergizi gratis atau mbg mendapat berbagai keluhan dari mitra terbaru keluhan datang dari mitra dapur di kalibata yang mengaku belum mendapat bayaran dari yayasan berikut rangkuman keluhan mitra mbg sejak program tersebut dimulai
+
+mitra mbg di kalibata belum mendapatkan bayaran
+mitra dapur makan bergizi gratis di satuan pelayanan pemenuhan gizi atau sppg kalibata jakarta selatan mengaku belum mendapatkan bayar sepeser pun sejak beroperasi pada februari kuasa hukum danna harly putra mengatakan kliennya ira mesra rela menjual berbagai aset untuk modal menjadi mitra dalam program tersebut menyesalkan tindakan yayasan mbn yang tidak membayarkan sepeser pun hak dari ibu ira selaku mitra dapur makan bergizi gratis di kalibata kata harly saat konferensi pers di kalibata pada selasa april
+
+harly menyebutkan bahwa total kerugian yang dialami kliennya mencapai rp kerugian tersebut dihitung berdasarkan jumlah sekitar porsi yang telah dimasak oleh ira sebagai mitra yang dikerjakan dalam dua tahap
+
+gaji staf sppg di jawa tengah belum dibayar
+tata bukan nama sebenarnya terpaksa menjual motornya untuk memenuhi kebutuhan seharihari ia merupakan staf di satuan pelayanan pemenuhan gizi sppg dapur tempat produksi makan bergizi gratis semenjak program tersebut dimulai tata belum pernah mendapatkan gajinya sama sekali jual hp juga aku kata singkat saat diwawancarai pada senin maret
+
+tata bekerja di salah satu sppg yang ada di jawa tengah kerjanya tak pernah tentu waktu kadang mengurusi dapur hingga larut malam sejak awal kata tata pembicaraan terkait gaji ini memang tidak pernah jelas ia berulang kali mempertanyakan kepada pihak bgn tapi yang didapat hanya ketidakpastian sabar masih proses kata tata menirukan jawaban bgn
+
+kepala badan gizi nasional bgn dadan hindayana tidak membantah terkait menunggaknya gaji staf sppg ia berdalih status staf tersebut belum menjadi pegawai pemerintah dengan perjanjian kerja atau pppk sehingga anggaran gaji yang berasal dari apbn tidak bisa turun
+
+gaji sppg ini dalam apbn masuk dalam pagu pppk nah status mereka belum pppk jadi harus diambil dari sumber lainnya kata dadan saat dikonfirmasi lewat aplikasi perpesanan pada minggu maret
+
+
+kepala chef makan bergizi gratis talangi bahan masakan
+kepala chef dapur sehat anak bangsa jonie kusuma hadi yang memimpin satuan pelayanan pemenuhan gizi sppg di lapangan udara halim perdana kusuma bercerita soal sistem pembayaran untuk modal pelaksanaan program makan bergizi gratis mbg menurut jonie pihak restoran selaku mitra harus menalangi biaya produksi dulu untuk memperoleh bahanbahan guna menyiapkan menu mbg
+
+nanti reimburse ke badan gizi nasional per minggu ujar jonie menyebut sistem permodalan mbg saat ditemui di sd angkasa halim jakarta timur pada senin januari
+
+
+
+--- TEKS SETELAH STEMMING ---
+judul ragam keluh mitra mbg talang biaya hingga jual barang pribadi rilis april tulis m rizki yusrial dian rahma fika sumber httpswwwtempocopolitikragamkeluhanmitrambgmenalangibiayahinggajualbarangpribadi bagi mitra makan gizi gratis keluh tidak dapat bayar atas kerja pada program mbg ikut beberapa keluh lain di lapang tempoco jakarta program makan gizi gratis atau mbg dapat bagai keluh dari mitra baru keluh datang dari mitra dapur di kalibata yang aku belum dapat bayar dari yayasan ikut rangkum keluh mitra mbg sejak program sebut mulai mitra mbg di kalibata belum dapat bayar mitra dapur makan gizi gratis di satu layan penuh gizi atau sppg kalibata jakarta selatan aku belum dapat bayar peser pun sejak operasi pada februari kuasa hukum danna harly putra kata klien ira mesra rela jual bagai aset untuk modal jadi mitra dalam program sebut sesal tindak yayasan mbn yang tidak bayar peser pun hak dari ibu ira selaku mitra dapur makan gizi gratis di kalibata kata harly saat konferensi pers di kalibata pada selasa april harly sebut bahwa total rugi yang alami klien capai rp rugi sebut hitung dasar jumlah sekitar porsi yang telah masak oleh ira bagai mitra yang kerja dalam dua tahap gaji staf sppg di jawa tengah belum bayar tata bukan nama benar paksa jual motor untuk penuh butuh seharihari ia rupa staf di satu layan penuh gizi sppg dapur tempat produksi makan gizi gratis semenjak program sebut mulai tata belum pernah dapat gaji sama sekali jual hp juga aku kata singkat saat wawancara pada senin maret tata kerja di salah satu sppg yang ada di jawa tengah kerja tak pernah tentu waktu kadang urus dapur hingga larut malam sejak awal kata tata bicara kait gaji ini memang tidak pernah jelas ia ulang kali tanya kepada pihak bgn tapi yang dapat hanya ketidakpastian sabar masih proses kata tata tiru jawab bgn kepala badan gizi nasional bgn dad hindayana tidak ban kait tunggak gaji staf sppg ia dalih status staf sebut belum jadi pegawai perintah dengan janji kerja atau pppk sehingga anggar gaji yang asal dari apbn tidak bisa turun gaji sppg ini dalam apbn masuk dalam pagu pppk nah status mereka belum pppk jadi harus ambil dari sumber lain kata dad saat konfirmasi lewat aplikasi pesan pada minggu maret kepala chef makan gizi gratis talang bahan masakan kepala chef dapur sehat anak bangsa jonie kusuma had yang pimpin satu layan penuh gizi sppg di lapang udara halim perdana kusuma cerita soal sistem bayar untuk modal laksana program makan gizi gratis mbg turut jonie pihak restoran selaku mitra harus talang biaya produksi dulu untuk oleh bahanbahan guna siap menu mbg nanti reimburse ke badan gizi nasional per minggu ujar jonie sebut sistem modal mbg saat temu di sd angkasa halim jakarta timur pada senin januari

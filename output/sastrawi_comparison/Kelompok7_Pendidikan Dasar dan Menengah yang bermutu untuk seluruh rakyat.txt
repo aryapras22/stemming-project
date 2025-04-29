@@ -1,0 +1,83 @@
+=============================================
+FILE: Kelompok7_Pendidikan Dasar dan Menengah yang bermutu untuk seluruh rakyat.txt - STATISTIK
+=============================================
+Jumlah Kata (Original): 1056
+Jumlah Kata Unik (Original): 529
+---------------------------------------------
+Jumlah Kata (Setelah Cleaning): 1046
+Jumlah Kata Unik (Setelah Cleaning): 441
+---------------------------------------------
+Jumlah Kata (Setelah Stemming): 1047
+Jumlah Kata Unik (Setelah Stemming): 375
+=============================================
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+judul pendidikan dasar dan menengah yang bermutu untuk seluruh rakyat
+rilis november
+penulis syamsul rizal
+
+sumberhttpswwwkompasidbacaopinipendidikandasardanmenengahyangbermutuuntukseluruhrakyat
+
+menteri pendidikan dasar dan menengah abdul mu’ti dalam rapat kerja bersama komisi x dpr pada rabu memaparkan enam program prioritas untuk sektor pendidikan dasar dan menengah
+
+programprogram ini bertujuan untuk meningkatkan kualitas pendidikan dan meratakan akses bagi semua anak bangsa mengacu pada undangundang nomor tahun tentang sistem pendidikan nasional visi besar yang diusung adalah pendidikan bermutu untuk semua
+
+program pertama penguatan pendidikan karakter yang menekankan pentingnya akhlak dan kesehatan siswa sebagai dasar pembentukan karakter bangsa kedua wajib belajar tahun yang berfokus pada perluasan akses pendidikan termasuk dukungan terhadap pendidikan anak usia dini paud dan melibatkan sukarelawan pendidikan
+
+ketiga peningkatan kualifikasi guru melalui pelatihan dan peningkatan kesejahteraan guru dengan tujuan mencetak tenaga pendidik yang lebih berkualitas keempat pendidikan literasi dan sains untuk meningkatkan keterampilan teknologi siswa sejak dini
+
+kelima perbaikan sarana dan prasarana mencakup renovasi sekolah guna menciptakan lingkungan belajar yang lebih layak terakhir pembangunan bahasa dan sastra untuk melestarikan bahasa daerah dan meningkatkan literasi bahasa indonesia
+
+semangat yang diusung mendikdasmen ini sangat relevan dengan citacita keadilan sosial yang terkandung dalam pancasila dan uud pendidikan berkualitas harus dapat diakses oleh seluruh rakyat indonesia termasuk di daerah terpencil
+
+luasnya wilayah indonesia yang disertai tantangan geografis membuat akses pendidikan yang adil menjadi sebuah prioritas tantangan besar seperti ketimpangan infrastruktur pendidikan terutama di daerahdaerah terpencil harus segera diatasi untuk menciptakan pemerataan pendidikan sesuai amanat konstitusi yaitu mencerdaskan kehidupan bangsa
+
+kesenjangan kualitas pendidikan antara daerah perkotaan dan terpencil masih menjadi permasalahan serius di indonesia pasal uud menegaskan setiap warga negara berhak mendapatkan pendidikan yang layak realitasnya hak ini belum sepenuhnya terpenuhi terutama di daerah terpencil
+
+sekolahsekolah di wilayah ini sering kali kekurangan tenaga pengajar dan fasilitas pendukung ini berdampak pada kualitas pendidikan yang diterima siswa hal ini bertentangan dengan prinsip keadilan dalam penyediaan akses pendidikan
+
+pemerintah memang telah meluncurkan berbagai program seperti guru garis depan ggd dan program indonesia mengajar yang bertujuan untuk mendistribusikan guru berkualitas ke daerah terpencil
+
+namun tantangan yang dihadapi masih besar kualitas pendidikan di daerah itu memerlukan perhatian lebih terutama terkait peningkatan anggaran pelatihan berkelanjutan bagi guru dan kebijakan yang lebih inklusif langkah ini sangat penting agar semua siswa indonesia baik di kota besar maupun pelosok bisa menikmati hak pendidikan yang setara
+
+guru yang berkualitas adalah kunci utama dalam menentukan keberhasilan siswa mereka tak hanya menyampaikan materi kurikulum tetapi juga bertindak sebagai pembimbing motivator dan sumber inspirasi bagi siswa
+
+keberadaan guru yang kompeten terlatih dan berpengalaman bisa meningkatkan hasil belajar siswa secara signifikan berbagai penelitian menunjukkan guru dengan kemampuan mengajar yang baik mampu mendorong prestasi akademik siswa ke tingkat lebih tinggi
+
+studi sanders dan rivers misalnya menemukan bahwa siswa yang diajar oleh guru berkualitas selama tiga tahun berturutturut mengalami peningkatan prestasi akademik yang jauh lebih baik dibandingkan dengan siswa yang belajar dari guru dengan kompetensi rendah
+
+lebih dari sekadar mengajarkan pelajaran di kelas guru berkualitas juga memanfaatkan metode pembelajaran yang kreatif dan inovatif mereka fokus tak hanya pada pencapaian akademis tetapi juga pada pengembangan karakter serta keterampilan sosial siswa metode pembelajaran yang efektif dan interaktif membuat proses belajar menjadi lebih menyenangkan dan pada akhirnya meningkatkan motivasi belajar siswa
+
+namun tak semua daerah di indonesia memiliki akses yang sama terhadap guru berkualitas di daerah terpencil tantangan untuk mendapatkan pengajaran yang bermutu sangat besar
+
+guru yang ditempatkan di wilayah ini sering kali menghadapi keterbatasan seperti minimnya akses terhadap pelatihan profesional dan kurangnya sarana pendukung dukungan dari pemerintah terkadang tidak memadai sehingga kualitas pengajaran menjadi rendah
+
+salah satu masalah terbesar adalah distribusi guru yang tidak merata guruguru berkualitas lebih cenderung mengajar di daerah perkotaan yang memiliki fasilitas lebih baik akibatnya sekolah di daerah terpencil sering kali kekurangan guru yang kompeten sehingga ada ketimpangan kualitas pendidikan
+
+faktor motivasi dan kesejahteraan guru juga menjadi hambatan tersendiri kurangnya insentif serta tunjangan khusus bagi guru yang bertugas di daerah terpencil membuat banyak dari mereka enggan mengabdi di wilayah tersebut karena itu dibutuhkan solusi yang komprehensif guna meningkatkan motivasi guru di daerah terpencil
+
+untuk mengatasinya berbagai strategi bisa diimplementasikan salah satunya meningkatkan kompetensi guru melalui pelatihan dan sertifikasi berkala terutama bagi mereka yang bertugas di daerah sulit dijangkau penggunaan teknologi elearning juga bisa jadi solusi untuk pelatihan jarak jauh sehingga guru tetap bisa mengembangkan kemampuan tanpa harus meninggalkan tempat tugas
+
+selain peningkatan kompetensi insentif khusus bagi guru yang bersedia mengajar di daerah terpencil sangat penting pemerintah bisa memberikan tunjangan daerah terpencil kenaikan gaji serta fasilitas perumahan yang layak
+
+kolaborasi dengan sektor lain seperti lembaga swadaya masyarakat sektor swasta dan lembaga pendidikan tinggi juga dapat membantu menyediakan sumber daya tambahan perusahaan teknologi misalnya bisa menyediakan perangkat digital dan akses internet sementara universitas dapat mengirim mahasiswa pendidikan untuk magang sebagai asisten guru di sekolahsekolah tersebut
+
+sebagai langkah inovatif mengatasi kekurangan guru di daerah terpencil lulusan akademi militer akmil bisa dilibatkan sebagai tenaga pengajar untuk sementara waktu mereka ini adalah individuindividu pilihan dengan kecakapan akademik dan kedisiplinan tinggi yang harus lulus seleksi ketat dari segi akademik dan fisik sejak sma
+
+meski latar belakang pendidikan mereka berfokus pada pertahanan dan keamanan konsep pertahanan hendaknya dapat diinterpretasikan secara lebih luas dengan pendekatan yang memberdayakan masyarakat termasuk di sektor pendidikan
+
+agar lulusan akmil ini dapat efektif mengajar mereka memerlukan pelatihan tambahan dalam pedagogi serta penguasaan kurikulum sd smp dan sma dengan keterampilan ini mereka bisa mendidik siswa dengan baik terutama di wilayah yang sulit dijangkau oleh guru profesional langkah ini tidak hanya mengatasi kekosongan tenaga pengajar tetapi juga memperkuat kehadiran negara dalam pemerataan pendidikan
+
+mengaitkan gagasan ini dengan sistem pertahanan keamanan rakyat semesta sishankamrata memperluas makna pertahanan negara melalui pendidikan sishankamrata melibatkan semua warga negara dan sumber daya nasional untuk menjaga kedaulatan
+
+melalui penugasan ini para lulusan akmil bisa memperkuat fondasi pertahanan bangsa jangka panjang dengan menempatkan mereka di sekolahsekolah terpencil mereka tidak hanya membantu mencerdaskan bangsa tetapi juga menumbuhkan rasa cinta tanah air dan semangat bela negara sejak dini
+
+kesimpulannya kualitas guru sangat menentukan keberhasilan siswa guru yang berkualitas dapat membentuk lingkungan belajar yang kondusif meningkatkan prestasi akademik sekaligus karakter siswa
+
+peningkatan kualitas guru khususnya di daerah terpencil adalah investasi jangka panjang penting untuk masa depan indonesia mewujudkan pendidikan yang merata sesuai amanat konstitusi perlu komitmen bersama terutama dari pemerintah
+
+dengan kebijakan inklusif dan dukungan berkelanjutan pendidikan berkualitas bisa dinikmati semua anak bangsa kita dapat membangun generasi cerdas kompeten dan siap menghadapi tantangan global
+
+--- TEKS SETELAH STEMMING ---
+judul didik dasar dan tengah yang mutu untuk seluruh rakyat rilis november tulis syamsul rizal sumberhttpswwwkompasidbacaopinipendidikandasardanmenengahyangbermutuuntukseluruhrakyat menteri didik dasar dan tengah abdul mu ti dalam rapat kerja sama komisi x dpr pada rabu papar enam program prioritas untuk sektor didik dasar dan tengah programprogram ini tuju untuk tingkat kualitas didik dan rata akses bagi semua anak bangsa acu pada undangundang nomor tahun tentang sistem didik nasional visi besar yang usung adalah didik mutu untuk semua program pertama kuat didik karakter yang tekan penting akhlak dan sehat siswa bagai dasar bentuk karakter bangsa dua wajib ajar tahun yang fokus pada luas akses didik masuk dukung hadap didik anak usia dini paud dan libat sukarelawan didik tiga tingkat kualifikasi guru lalu latih dan tingkat sejahtera guru dengan tuju cetak tenaga didik yang lebih kualitas empat didik literasi dan sains untuk tingkat terampil teknologi siswa sejak dini lima baik sarana dan prasarana cakup renovasi sekolah guna cipta lingkung ajar yang lebih layak akhir bangun bahasa dan sastra untuk lestari bahasa daerah dan tingkat literasi bahasa indonesia semangat yang usung mendikdasmen ini sangat relevan dengan citacita adil sosial yang kandung dalam pancasila dan uud didik kualitas harus dapat akses oleh seluruh rakyat indonesia masuk di daerah pencil luas wilayah indonesia yang serta tantang geografis buat akses didik yang adil jadi buah prioritas tantang besar seperti timpang infrastruktur didik utama di daerahdaerah pencil harus segera atas untuk cipta perata didik sesuai amanat konstitusi yaitu cerdas hidup bangsa senjang kualitas didik antara daerah kota dan pencil masih jadi masalah serius di indonesia pasal uud tegas tiap warga negara hak dapat didik yang layak realitas hak ini belum sepenuh penuh utama di daerah pencil sekolahsekolah di wilayah ini sering kali kurang tenaga ajar dan fasilitas dukung ini dampak pada kualitas didik yang terima siswa hal ini tentang dengan prinsip adil dalam sedia akses didik perintah memang telah luncur bagai program seperti guru garis depan ggd dan program indonesia ajar yang tuju untuk distribusi guru kualitas ke daerah pencil namun tantang yang hadap masih besar kualitas didik di daerah itu perlu perhati lebih utama kait tingkat anggar latih lanjut bagi guru dan bijak yang lebih inklusif langkah ini sangat penting agar semua siswa indonesia baik di kota besar maupun pelosok bisa nikmat hak didik yang tara guru yang kualitas adalah kunci utama dalam tentu hasil siswa mereka tak hanya sampai materi kurikulum tetapi juga tindak bagai bimbing motivator dan sumber inspirasi bagi siswa ada guru yang kompeten latih dan alam bisa tingkat hasil ajar siswa cara signifikan bagai teliti tunjuk guru dengan mampu ajar yang baik mampu dorong prestasi akademik siswa ke tingkat lebih tinggi studi sanders dan rivers misal temu bahwa siswa yang ajar oleh guru kualitas lama tiga tahun berturutturut alami tingkat prestasi akademik yang jauh lebih baik banding dengan siswa yang ajar dari guru dengan kompetensi rendah lebih dari sekadar ajar ajar di kelas guru kualitas juga manfaat metode ajar yang kreatif dan inovatif mereka fokus tak hanya pada capai akademis tetapi juga pada kembang karakter serta terampil sosial siswa metode ajar yang efektif dan interaktif buat proses ajar jadi lebih senang dan pada akhir tingkat motivasi ajar siswa namun tak semua daerah di indonesia milik akses yang sama hadap guru kualitas di daerah pencil tantang untuk dapat ajar yang mutu sangat besar guru yang tempat di wilayah ini sering kali hadap batas seperti minim akses hadap latih profesional dan kurang sarana dukung dukung dari perintah terkadang tidak pada sehingga kualitas ajar jadi rendah salah satu masalah besar adalah distribusi guru yang tidak rata guruguru kualitas lebih cenderung ajar di daerah kota yang milik fasilitas lebih baik akibat sekolah di daerah pencil sering kali kurang guru yang kompeten sehingga ada timpang kualitas didik faktor motivasi dan sejahtera guru juga jadi hambat sendiri kurang insentif serta tunjang khusus bagi guru yang tugas di daerah pencil buat banyak dari mereka enggan abdi di wilayah sebut karena itu butuh solusi yang komprehensif guna tingkat motivasi guru di daerah pencil untuk atas bagai strategi bisa implementasi salah satu tingkat kompetensi guru lalu latih dan sertifikasi kala utama bagi mereka yang tugas di daerah sulit jangkau guna teknologi elearning juga bisa jadi solusi untuk latih jarak jauh sehingga guru tetap bisa kembang mampu tanpa harus tinggal tempat tugas selain tingkat kompetensi insentif khusus bagi guru yang sedia ajar di daerah pencil sangat penting perintah bisa beri tunjang daerah pencil naik gaji serta fasilitas rumah yang layak kolaborasi dengan sektor lain seperti lembaga swadaya masyarakat sektor swasta dan lembaga didik tinggi juga dapat bantu sedia sumber daya tambah usaha teknologi misal bisa sedia perangkat digital dan akses internet sementara universitas dapat kirim mahasiswa didik untuk magang bagai asisten guru di sekolahsekolah sebut bagai langkah inovatif atas kurang guru di daerah pencil lulus akademi militer akmil bisa libat bagai tenaga ajar untuk sementara waktu mereka ini adalah individuindividu pilih dengan cakap akademik dan disiplin tinggi yang harus lulus seleksi ketat dari segi akademik dan fisik sejak sma meski latar belakang didik mereka fokus pada tahan dan aman konsep tahan hendak dapat interpretasi cara lebih luas dengan dekat yang daya masyarakat masuk di sektor didik agar lulus akmil ini dapat efektif ajar mereka perlu latih tambah dalam pedagogi serta kuasa kurikulum sd smp dan sma dengan terampil ini mereka bisa didik siswa dengan baik utama di wilayah yang sulit jangkau oleh guru profesional langkah ini tidak hanya atas kosong tenaga ajar tetapi juga kuat hadir negara dalam perata didik kait gagas ini dengan sistem tahan aman rakyat semesta sishankamrata luas makna tahan negara lalu didik sishankamrata libat semua warga negara dan sumber daya nasional untuk jaga daulat lalu tugas ini para lulus akmil bisa kuat fondasi tahan bangsa jangka panjang dengan tempat mereka di sekolahsekolah pencil mereka tidak hanya bantu cerdas bangsa tetapi juga tumbuh rasa cinta tanah air dan semangat bela negara sejak dini simpul kualitas guru sangat tentu hasil siswa guru yang kualitas dapat bentuk lingkung ajar yang kondusif tingkat prestasi akademik sekaligus karakter siswa tingkat kualitas guru khusus di daerah pencil adalah investasi jangka panjang penting untuk masa depan indonesia wujud didik yang rata sesuai amanat konstitusi perlu komitmen sama utama dari perintah dengan bijak inklusif dan dukung lanjut didik kualitas bisa nikmat semua anak bangsa kita dapat bangun generasi cerdas kompeten dan siap hadap tantang global

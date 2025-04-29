@@ -1,0 +1,52 @@
+=============================================
+FILE: Dugaan Ekspoitasi Mantan Pemain Sirkus, Komisi III DPR Gelar Audiensi Hari ini_2.txt - STATISTIK
+=============================================
+Jumlah Kata (Original): 463
+Jumlah Kata Unik (Original): 300
+---------------------------------------------
+Jumlah Kata (Setelah Cleaning): 451
+Jumlah Kata Unik (Setelah Cleaning): 254
+---------------------------------------------
+Jumlah Kata (Setelah Stemming): 451
+Jumlah Kata Unik (Setelah Stemming): 226
+=============================================
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+judul
+dugaan ekspoitasi mantan pemain sirkus komisi iii dpr gelar audiensi hari ini
+
+waktu terbit
+april wib
+
+penulis
+dian rahma fika
+
+sumber
+httpswwwtempocopolitikdugaanekspoitasimantanpemainsirkuskomisiiiidprgelaraudiensihariini
+
+isi berita
+komisi iii dpr mengundang sejumlah mantan pemain sirkus oriental circus indonesia oci untuk audiensi dalam rapat dengar pendapat umum rdpu hari ini mantan pekerja sirkus itu mengaku dieksploitasi dan mengalami pelanggaran hak asasi manusia dari pengelola oci dan taman safari sejak tahun an
+
+menurut anggota komisi iii dpr abdullah audiensi akan digelar pada siang hari ini jam wib rencananya kata abdullah saat dihubungi pada senin april
+
+abdullah belum dapat memastikan apakah rdpu akan digelar secara terbuka atau tertutup terbuka atau tertutup nanti tergantung kesepakatan forum rapat ujarnya politikus partai kebangkitan bangsa pkb itu juga menyebut audiensi juga akan dihadiri oleh pengelola oci baik yang masih bekerja dan yang sudah tidak aktif
+
+adapula aparat penegak hukum setempat yang akan turut berpartisipasi dalam audiensi direktur kriminal umum polda jawa barat juga kami panggil kata gus abduh sapaan abdullah
+
+rencana rdpu dengan eks pekerja sirkus ini telah disampaikan oleh ketua komisi iii habiburokhman habiburokhman mengatakan telah berkomunikasi langsung dengan kuasa hukum para pemain sirkus yang bernama muhammad sholeh hari senin kami panggil ada rdpu di sini kata habiburokhman di kompleks parlemen jakarta kamis april
+
+kala itu habiburokhman berujar kehadiran para korban yang mengaku dieksploitasi selama bekerja menjadi prioritas untuk didengarkan ia juga mendorong agar kasus ini ditindaklanjuti segala jenis pelanggaran hukum apalagi terhadap orang kecil harus diselesaikan siapa yang bertanggung jawab harus dikenakan hukuman yang berat ucap politikus partai gerindra itu
+
+sejumlah mantan pekerja sirkus oriental circus indonesia oci sebelumnya mengadukan dugaan eksploitasi dan pelanggaran hak asasi manusia kepada kementerian hak asasi manusia ham di jakarta selatan selasa april tindak kekerasan perbudakan dan eksploitasi anak yang disampaikan para mantan pekerja diduga terjadi sejak tahun an oleh para pemilik oci dan taman safari indonesia
+
+delapan orang perwakilan korban yang hadir sebagian besar perempuan paruh baya menceritakan kronologi mereka dipekerjakan sejak masih anakanak sebagai pemain sirkus di oci mereka mengaku mengalami berbagai bentuk penyiksaan seperti dipukul disetrum dipaksa bekerja dalam kondisi sakit dipisahkan dari anaknya hingga dipaksa makan kotoran hewan
+
+wakil menteri ham mugiyanto mengatakan ada beberapa kemungkinan pelanggaran ham dari cerita para korban “ada perbudakan penyiksaan pelanggaran hak atas rasa aman hak atas pendidikan kemudian hak atas identitas” katanya di hadapan para korban pendamping korban dan wartawan
+
+ia mengatakan kementerian ham akan mengambil langkah agar kejadiankejadian tersebut tidak terulang lagi selain itu kata mugiyanto kementeriannya akan berkoordinasi dengan kementerianlembaga lain untuk menindaklanjuti kasus ini
+
+komisaris taman safari indonesia dan pelatih satwa di oriental circus indonesia oci tony sumampouw membantah perusahaannya mengeksploitasi para pekerja sirkus oci “apa yang disampaikan sama sekali mengadaada” ujar tony saat dihubungi lewat pesan whatsapp selasa april
+
+--- TEKS SETELAH STEMMING ---
+judul duga ekspoitasi mantan main sirkus komisi iii dpr gelar audiensi hari ini waktu terbit april wib tulis dian rahma fika sumber httpswwwtempocopolitikdugaanekspoitasimantanpemainsirkuskomisiiiidprgelaraudiensihariini isi berita komisi iii dpr undang jumlah mantan main sirkus oriental circus indonesia oci untuk audiensi dalam rapat dengar dapat umum rdpu hari ini mantan kerja sirkus itu aku eksploitasi dan alami langgar hak asasi manusia dari kelola oci dan taman safari sejak tahun an turut anggota komisi iii dpr abdullah audiensi akan gelar pada siang hari ini jam wib rencana kata abdullah saat hubung pada senin april abdullah belum dapat pasti apakah rdpu akan gelar cara buka atau tutup buka atau tutup nanti gantung sepakat forum rapat ujar politikus partai bangkit bangsa pkb itu juga sebut audiensi juga akan hadir oleh kelola oci baik yang masih kerja dan yang sudah tidak aktif adapula aparat tegak hukum tempat yang akan turut partisipasi dalam audiensi direktur kriminal umum polda jawa barat juga kami panggil kata gus abduh sapa abdullah rencana rdpu dengan eks kerja sirkus ini telah sampai oleh ketua komisi iii habiburokhman habiburokhman kata telah komunikasi langsung dengan kuasa hukum para main sirkus yang nama muhammad sholeh hari senin kami panggil ada rdpu di sini kata habiburokhman di kompleks parlemen jakarta kamis april kala itu habiburokhman ujar hadir para korban yang aku eksploitasi lama kerja jadi prioritas untuk dengar ia juga dorong agar kasus ini ditindaklanjuti segala jenis langgar hukum apalagi hadap orang kecil harus selesai siapa yang tanggung jawab harus kena hukum yang berat ucap politikus partai gerindra itu jumlah mantan kerja sirkus oriental circus indonesia oci belum adu duga eksploitasi dan langgar hak asasi manusia kepada menteri hak asasi manusia ham di jakarta selatan selasa april tindak keras budak dan eksploitasi anak yang sampai para mantan kerja duga jadi sejak tahun an oleh para milik oci dan taman safari indonesia delapan orang wakil korban yang hadir bagi besar perempuan paruh baya cerita kronologi mereka kerja sejak masih anakanak bagai main sirkus di oci mereka aku alami bagai bentuk siksa seperti pukul setrum paksa kerja dalam kondisi sakit pisah dari anak hingga paksa makan kotor hewan wakil menteri ham mugiyanto kata ada beberapa mungkin langgar ham dari cerita para korban ada budak siksa langgar hak atas rasa aman hak atas didik kemudian hak atas identitas kata di hadap para korban damping korban dan wartawan ia kata menteri ham akan ambil langkah agar kejadiankejadian sebut tidak ulang lagi selain itu kata mugiyanto menteri akan koordinasi dengan kementerianlembaga lain untuk menindaklanjuti kasus ini komisaris taman safari indonesia dan latih satwa di oriental circus indonesia oci tony sumampouw ban usaha eksploitasi para kerja sirkus oci apa yang sampai sama sekali mengadaada ujar tony saat hubung lewat pesan whatsapp selasa april
