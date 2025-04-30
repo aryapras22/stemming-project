@@ -9,7 +9,12 @@ Jumlah Kata Unik (Setelah Cleaning): 292
 ---------------------------------------------
 Jumlah Kata (Setelah Stemming): 960
 Jumlah Kata Unik (Setelah Stemming): 259
+---------------------------------------------
+Proxy Over-Stemming (Jumlah Stem Collision*): 30
 =============================================
+* Stem Collision: Jumlah stem yang dihasilkan dari >1 kata unik berbeda setelah cleaning.
+  Angka tinggi MUNGKIN indikasi over-stemming (perlu cek manual). Dihitung jika jumlah
+  kata cleaned == stemmed.
 
 
 --- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
