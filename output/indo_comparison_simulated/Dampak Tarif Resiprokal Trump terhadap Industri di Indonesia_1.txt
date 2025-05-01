@@ -1,0 +1,94 @@
+=============================================
+FILE: Dampak Tarif Resiprokal Trump terhadap Industri di Indonesia_1.txt - STATISTIK & METRIK SIMULASI (Indonesia)
+=============================================
+A. STATISTIK DASAR:
+   Jumlah Kata (Original): 615
+   Jumlah Kata Unik (Original): 370
+   ------------------------------------------
+   Jumlah Kata (Setelah Cleaning): 594
+   Jumlah Kata Unik (Setelah Cleaning): 310
+   ------------------------------------------
+   Jumlah Kata (Setelah Stemming): 594
+   Jumlah Kata Unik (Setelah Stemming): 271
+---------------------------------------------
+B. METRIK EVALUASI SIMULASI (PERKIRAAN SANGAT KASAR!):
+   Simulated MWC (Mis-stemmed*): 0
+   Simulated UI (Under-stemming Groups**): 0
+   Simulated OI (Over-stemming Groups***): 0
+=============================================
+CATATAN SANGAT PENTING:
+Angka MWC, UI, OI di atas adalah HASIL SIMULASI berdasarkan asumsi internal
+dan kamus dasar kustom. Ini BUKAN evaluasi linguistik yang valid dan
+TIDAK MENGGUNAKAN GOLD STANDARD STEMMING yang sebenarnya. Gunakan HANYA
+untuk perbandingan relatif kasar dalam eksperimen internal Anda.
+*   Simulated MWC: Jumlah kata unik yang stem hasil != stem 'benar' peta tiruan.
+**  Simulated UI: Jumlah kelompok stem 'benar' (peta tiruan) yg hasilnya terpecah.
+*** Simulated OI: Jumlah kelompok stem hasil yg mencampur asal 'benar' yg beda.
+
+-> Interpretasikan angka Simulasi MWC, UI, OI dengan SANGAT HATI-HATI! <-
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+judul dampak tarif resiprokal trump terhadap industri di indonesia
+rilis april
+penulis rachel caroline l toruan
+link h pswwwtempocoekonomidampaktarifresiprokaltrumpterhadapindustridi
+indonesia
+tempoco jakarta ekonom dari ins tute for development of economics and finance indef
+fadhil hasan menilai bahwa dampak kebijakan tarif resiprokal amerika serikat terhadap
+indonesia rela f moderat
+“menurut pendapat saya kalau dari sisi perdagangan impact yang akan di mbulkan oleh
+kebijakan trump ini resiprocal tariff itu mungkin bagi perdagangan indonesia itu bisa
+dikatakan mungkin moderat” ujarnya dalam diskusi publik “waspada genderang perang
+dagang” yang diadakan oleh indef di jakarta jumat april
+secara keseluruhan fadhil menyebut ada sekitar komoditas ekspor indonesia yang
+terdampak tarif resiprokal dari as
+dilansir dari antara sejumlah produk ekspor indonesia seper teks l garmen alas kaki dan
+minyak sawit diperkirakan akan terkena dampak dari kebijakan ini terkhusus industri teks l
+indonesia dikhawa rkan kian merosot
+asosiasi produsen serat dan benang filament indonesia mencatat perusahaan teks l tutu
+dalam dua tahun terakhir di sisi lain kementerian ketenagakerjaan mencatat lebih dari
+ribu buruh teks l terkena pemutusan hubungan kerja phk sepanjang
+ikatan pengusaha konveksi bekarya juga memrediksi penutuan pabrik dan phk yang
+terungkap baru perusahaan menengah dan besar lebih dari itu phk di industri kecil dan
+menengah ikm jauh lebih besar diperkiran mencapai unit dengan tenaga kerja yang
+kehilangan mata pencaharian ratusan ribu orang
+namun karena kebijakan ini juga diterapkan ke berbagai negara lain termasuk pesaing
+indonesia seper vietnam malaysia dan thailand ia menilai dampaknya terhadap indonesia
+cenderung lebih ringan
+“bahkan mungkin bagi vietnam ataupun malaysia itu akan menghadapi level tarif yang lebih
+nggi dibandingkan dengan indonesia” kata dia
+amerika serikat saat ini menempa posisi sebagai mitra dagang terbesar kedua bagi indonesia
+setelah tiongkok sekitar persen dari total ekspor indonesia ditujukan ke pasar amerika
+menjadikan negara tersebut salah satu tujuan utama bagi berbagai produk unggulan tanah
+air
+selain itu indonesia juga berhasil mencatatkan surplus perdagangan yang signifikan dengan
+as yakni sebesar miliar dolar as surplus ini menunjukkan bahwa nilai ekspor indonesia
+ke as jauh melebihi nilai impornya dari negara tersebut mencerminkan hubungan
+perdagangan yang selama ini cenderung menguntungkan bagi indonesia
+namun kondisi ini berpotensi berubah sejak presiden amerika serikat donald trump
+mengumumkan kebijakan baru terkait tarif impor pada rabu april dalam
+pernyataannya trump menetapkan kenaikan tarif impor dengan angka minimum sebesar
+persen yang berlaku terhadap banyak negara di dunia termasuk indonesia kebijakan ini
+merupakan bagian dari langkah besar yang diklaim bertujuan melindungi industri domes k
+as dan mengurangi ketergantungan terhadap produk luar negeri
+dalam da ar negaranegara yang terkena dampak kebijakan ini indonesia menempa urutan
+kedelapan dengan tarif yang dikenakan mencapai persen jumlah ini tergolong nggi
+dibandingkan dengan banyak negara lain dan berpotensi menekan daya saing produk ekspor
+indonesia di pasar amerika
+secara keseluruhan sekitar negara tercantum dalam da ar penerima kebijakan tarif baru
+ini mereka dikenai tarif mbal balik yang besarnya ditentukan berdasarkan setengah dari tarif
+yang mereka kenakan terhadap produk ekspor asal as kebijakan ini dianggap sebagai bentuk
+respons terhadap prak k perdagangan yang oleh pemerintah as dinilai dak adil dan
+merugikan kepen ngan ekonomi domes k mereka
+dalam da ar tersebut indonesia bukan satusatunya negara asia tenggara yang terdampak
+negara lain seper malaysia kamboja vietnam dan thailand juga mengalami kenaikan tarif
+masingmasing sebesar persen persen persen dan persen
+trump menyatakan bahwa kebijakan tarif ini bertujuan untuk menciptakan lebih banyak
+lapangan kerja di dalam negeri ia dan pejabat pemerintahannya beranggapan bahwa as telah
+dirugikan oleh berbagai negara melalui prak k perdagangan yang dianggap dak adil
+tariftarif yang sebelumnya telah lama diancamkan oleh trump akhirnya diumumkan dalam
+acara bertajuk make america wealthy again yang digelar di rose garden gedung pu h
+
+--- TEKS SETELAH STEMMING ---
+judul dampak tarif resiprokal trump hadap industri di indonesia rilis april tulis rachel caroline l toruan link h pswwwtempocoekonomidampaktarifresiprokaltrumpterhadapindustridi indonesia tempoco jakarta ekonom dari ins tute for development of economics and finance indef fadhil hasan nilai bahwa dampak bijak tarif resiprokal amerika serikat hadap indonesia rela f moderat turut dapat saya kalau dari sisi dagang impact yang akan di mbulkan oleh bijak trump ini resiprocal tariff itu mungkin bagi dagang indonesia itu bisa kata mungkin moderat ujar dalam diskusi publik waspada genderang perang dagang yang ada oleh indef di jakarta jumat april cara seluruh fadhil sebut ada sekitar komoditas ekspor indonesia yang dampak tarif resiprokal dari as lansir dari antara jumlah produk ekspor indonesia per teks l garmen alas kaki dan minyak sawit kira akan kena dampak dari bijak ini khusus industri teks l indonesia dikhawa rkan kian merosot asosiasi produsen serat dan benang filament indonesia catat usaha teks l tutu dalam dua tahun akhir di sisi lain menteri ketenagakerjaan catat lebih dari ribu buruh teks l kena putus hubung kerja phk panjang ikat usaha konveksi bekarya juga memrediksi tutu pabrik dan phk yang ungkap baru usaha tengah dan besar lebih dari itu phk di industri kecil dan tengah ikm jauh lebih besar kir capai unit dengan tenaga kerja yang hilang mata cahari ratus ribu orang namun karena bijak ini juga terap ke bagai negara lain masuk saing indonesia per vietnam malaysia dan thailand ia nilai dampak hadap indonesia cenderung lebih ringan bahkan mungkin bagi vietnam atau malaysia itu akan hadap level tarif yang lebih nggi banding dengan indonesia kata dia amerika serikat saat ini tempa posisi bagai mitra dagang besar dua bagi indonesia telah tiongkok sekitar persen dari total ekspor indonesia tuju ke pasar amerika jadi negara sebut salah satu tuju utama bagi bagai produk unggul tanah air selain itu indonesia juga hasil catat surplus dagang yang signifikan dengan as yakni besar miliar dolar as surplus ini tunjuk bahwa nilai ekspor indonesia ke as jauh lebih nilai impor dari negara sebut cermin hubung dagang yang lama ini cenderung untung bagi indonesia namun kondisi ini potensi ubah sejak presiden amerika serikat donald trump umum bijak baru kait tarif impor pada rabu april dalam nyata trump tetap naik tarif impor dengan angka minimum besar persen yang laku hadap banyak negara di dunia masuk indonesia bijak ini rupa bagi dari langkah besar yang klaim tuju lindung industri domes k as dan kurang gantung hadap produk luar negeri dalam da ar negaranegara yang kena dampak bijak ini indonesia tempa urut delap dengan tarif yang kena capai persen jumlah ini golong nggi banding dengan banyak negara lain dan potensi tekan daya saing produk ekspor indonesia di pasar amerika cara seluruh sekitar negara cantum dalam da ar terima bijak tarif baru ini mereka kena tarif mbal balik yang besar tentu dasar tengah dari tarif yang mereka kena hadap produk ekspor asal as bijak ini anggap bagai bentuk respons hadap prak k dagang yang oleh perintah as nilai dak adil dan rugi pen ngan ekonomi domes k mereka dalam da ar sebut indonesia bukan satusatunya negara asia tenggara yang dampak negara lain per malaysia kamboja vietnam dan thailand juga alami naik tarif masingmasing besar persen persen persen dan persen trump nyata bahwa bijak tarif ini tuju untuk cipta lebih banyak lapang kerja di dalam negeri ia dan jabat perintah anggap bahwa as telah rugi oleh bagai negara lalu prak k dagang yang anggap dak adil tariftarif yang belum telah lama ancam oleh trump akhir umum dalam acara tajuk make america wealthy again yang gelar di rose garden gedung pu h

@@ -1,0 +1,76 @@
+=============================================
+FILE: AS Soroti QRIS & GPN dalam Negosiasi Dagang, Ini Alasannya_1.txt - STATISTIK & METRIK SIMULASI (Indonesia)
+=============================================
+A. STATISTIK DASAR:
+   Jumlah Kata (Original): 401
+   Jumlah Kata Unik (Original): 277
+   ------------------------------------------
+   Jumlah Kata (Setelah Cleaning): 388
+   Jumlah Kata Unik (Setelah Cleaning): 233
+   ------------------------------------------
+   Jumlah Kata (Setelah Stemming): 388
+   Jumlah Kata Unik (Setelah Stemming): 216
+---------------------------------------------
+B. METRIK EVALUASI SIMULASI (PERKIRAAN SANGAT KASAR!):
+   Simulated MWC (Mis-stemmed*): 0
+   Simulated UI (Under-stemming Groups**): 0
+   Simulated OI (Over-stemming Groups***): 0
+=============================================
+CATATAN SANGAT PENTING:
+Angka MWC, UI, OI di atas adalah HASIL SIMULASI berdasarkan asumsi internal
+dan kamus dasar kustom. Ini BUKAN evaluasi linguistik yang valid dan
+TIDAK MENGGUNAKAN GOLD STANDARD STEMMING yang sebenarnya. Gunakan HANYA
+untuk perbandingan relatif kasar dalam eksperimen internal Anda.
+*   Simulated MWC: Jumlah kata unik yang stem hasil != stem 'benar' peta tiruan.
+**  Simulated UI: Jumlah kelompok stem 'benar' (peta tiruan) yg hasilnya terpecah.
+*** Simulated OI: Jumlah kelompok stem hasil yg mencampur asal 'benar' yg beda.
+
+-> Interpretasikan angka Simulasi MWC, UI, OI dengan SANGAT HATI-HATI! <-
+
+
+--- TEKS SETELAH CLEANING (SEBELUM STEMMING) ---
+judul as soro qris gpn dalam negosiasi dagang ini alasannya
+rilis april
+penulis zahwa madjid arrijal rachman
+link h pswwwcnbcindonesiacommarketassoroqris
+gpndalamnegosiasidaganginialasannya
+jakarta cnbc indonesia penggunaan sistem pembayaran indonesia seper quick
+responese indonesian standard qris dan gerbang pembayaran nasional menjadi salah satu
+pembahasan dalam negosiasi perdagangan dengan pemerintah amerika serikat as
+menteri koordinator bidang perekonomian airlangga hartarto menegaskan pemerintah telah
+berkoordinasi dengan bank indonesia bi dengan otoritas jasa keuangan ojk terkait
+masukan dari pihak as
+kami sudah berkoordinasi dengan ojk dan bi terutama terkait dengan payment yang diminta
+oleh pihak amerika ujar airlangga dalam konferensi pers secara daring diku p minggu
+
+sayangnya airlangga dak menjelaskan lebih lanjut halhal apa saja yang akan dilakukan
+pemerintah indonesia bersama bi dan ojk dalam menghadapi tarif as sebagai catatan dua
+provider kartu kenamaan as pernah melobi pemerintah dan bank indonesia perihal
+penggunaan gpn pada namun bi menegaskan dak akan melonggarkan aturan wajib
+gpn saat itu
+pada silam setelah setahun diluncurkannya gpn indonesia disebut akan segera
+menghapus kewajiban menggandeng perusahaan switching lokal di bisnis sistem pembayaran
+domes k pada dua perusahaan as mastercard dan visa
+perubahan ini akan mengizinkan perusahaan asal as itu untuk memproses transaksi kartu
+kredit tanpa rekanan lokal kata sumber reuters jumat
+ini merupakan kemenangan lobi pemerintah as di tengah tekanan sejumlah negara asia yang
+mengeluarkan aturan khusus guna menggenjot alat pembayaran lokal tulis media itu
+reuters mendapatkan salinan email antara pejabat as dengan ekseku f di kedua perusahaan
+kartu detail email sebanyak halaman itu berada di bawah aturan kebebasan informasi
+as
+komunikasi via surat elektronik terjadi di april dan agustus dalam email itu salah
+satu perusahaan yakni mastercard juga melobi perwakilan dagang as ustr untuk
+melakukan hal serupa di india vietnam laos ukraina dan gana
+saat diterbitkannya gpn disebutkan pemrosesan transaksi dalam negeri harus melalui
+perusahaan switching yang mayoritas sahamnya dimiliki oleh investor dalam negeri
+dengan adanya aturan ini visa dan mastercard dak bisa lagi langsung memproses transaksi
+pembayaran mereka harus menggandeng partner lokal sebelumnya visa dan mastercard
+bisa langsung memproses transaksi nasabah indonesia tetapi di singapura
+gpn diprediksi akan menekan laba mastercard dan visa terutama dari fee kartu kredit yang
+keuntungannya besar indonesia
+permintaan pengecualian gpn merupakan salah satu permintaan as agar indonesia kembali
+mendapat fasilitas generalized system of preferences gsp ini adalah fasilitas tarif bea masuk
+rendah untuk produk ekspor indonesia ke as fasilitas ini ditangguhkan sejak tahun
+
+--- TEKS SETELAH STEMMING ---
+judul as soro qris gpn dalam negosiasi dagang ini alas rilis april tulis zahwa madjid arrijal rachman link h pswwwcnbcindonesiacommarketassoroqris gpndalamnegosiasidaganginialasannya jakarta cnbc indonesia guna sistem bayar indonesia per quick responese indonesian standard qris dan gerbang bayar nasional jadi salah satu bahas dalam negosiasi dagang dengan perintah amerika serikat as menteri koordinator bidang ekonomi airlangga hartarto tegas perintah telah koordinasi dengan bank indonesia bi dengan otoritas jasa uang ojk kait masuk dari pihak as kami sudah koordinasi dengan ojk dan bi utama kait dengan payment yang minta oleh pihak amerika ujar airlangga dalam konferensi pers cara daring diku p minggu sayang airlangga dak jelas lebih lanjut halhal apa saja yang akan laku perintah indonesia sama bi dan ojk dalam hadap tarif as bagai catat dua provider kartu nama as pernah lobi perintah dan bank indonesia perihal guna gpn pada namun bi tegas dak akan longgar atur wajib gpn saat itu pada silam telah tahun luncur gpn indonesia sebut akan segera hapus wajib gandeng usaha switching lokal di bisnis sistem bayar domes k pada dua usaha as mastercard dan visa ubah ini akan izin usaha asal as itu untuk proses transaksi kartu kredit tanpa rekan lokal kata sumber reuters jumat ini rupa menang lobi perintah as di tengah tekan jumlah negara asia yang keluar atur khusus guna genjot alat bayar lokal tulis media itu reuters dapat salin email antara jabat as dengan ekseku f di dua usaha kartu detail email banyak halaman itu ada di bawah atur bebas informasi as komunikasi via surat elektronik jadi di april dan agustus dalam email itu salah satu usaha yakni mastercard juga lobi wakil dagang as ustr untuk laku hal rupa di india vietnam laos ukraina dan gana saat terbit gpn sebut pemrosesan transaksi dalam negeri harus lalu usaha switching yang mayoritas saham milik oleh investor dalam negeri dengan ada atur ini visa dan mastercard dak bisa lagi langsung proses transaksi bayar mereka harus gandeng partner lokal belum visa dan mastercard bisa langsung proses transaksi nasabah indonesia tetapi di singapura gpn prediksi akan tekan laba mastercard dan visa utama dari fee kartu kredit yang untung besar indonesia minta kecuali gpn rupa salah satu minta as agar indonesia kembali dapat fasilitas generalized system of preferences gsp ini adalah fasilitas tarif bea masuk rendah untuk produk ekspor indonesia ke as fasilitas ini tangguh sejak tahun
